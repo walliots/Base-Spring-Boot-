@@ -12,6 +12,7 @@ import projetoVendas.domain.entity.Cliente;
 import projetoVendas.domain.repository.Clientes;
 
 @SpringBootApplication
+
 public class VendasApplication {
 //    @Bean
 //    public CommandLineRunner commandLineRunner (@Autowired Clientes clientes){
